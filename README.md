@@ -1,16 +1,47 @@
-## Hi there 👋
+# 💫 Vasumathi Kannan
 
-<!--
-**vasumathikannan/vasumathikannan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.Tech (IT) | 💻 Full-Stack Developer  
+📍 Tamil Nadu, India | 📬 vasumathikannan10@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Tech Stack
+
+**Languages**: Java ·C. JavaScript  · C++  
+**Frontend**: React.js · HTML/CSS  
+**Backend**: Node.js · Express.js  
+**Mobile**: Flutter  
+**Database**: MongoDB · MySQL  
+**Tools**: Git · Postman · VS Code · AWS (Certified CCP)
+
+---
+
+## 🚀 Projects
+
+### 🔹 [Ease Billing System](https://github.com/vasumathikannan/Ease-Billing)  
+MERN-based electrical billing platform with GST invoices, inventory, GPay QR, and role-based access.
+
+### 🔹 [Movie Recommendation System](https://github.com/vasumathikannan/movie_recommendation)  
+Content-based recommender app using React + Python Flask for personalized movie suggestions.
+
+### 🔹 Sentiment Analysis for Product Rating  
+Python NLP project to analyze customer reviews and auto-generate ratings using ML classification.
+
+
+---
+
+## 📌 Interests
+
+-  DSA
+-  Full-Stack Web Development  
+-  Cloud Integration & DevOps Basics  
+-  Scalable API Design   
+-  App Development  
+ 
+
+---
+
+## 🔗 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/vasumathikannan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vasumathi-kannan)
